@@ -3,7 +3,11 @@
 - 👋 Hi, I’m @natanielst
 - 👀 I’m interested in Software Quality Engineer
 - 🌱 I’m currently learning Software Quality Engineering
-- 📫 How to reach me ...
+- 📫 How to reach me : <br>
+    Mobile Phone  : +6282285373778 <br>
+    WA            : +6282285373778 <br>
+    Email         : natanskom@yahoo.co.id <br>
+    linkedin      : https://www.linkedin.com/in/natanielst/
 
 <!---
 natanrc/natanrc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
